@@ -1,6 +1,8 @@
 // function in javascript
 function fun() {
   var name = prompt("What is your name?");
-  var result = "Hello " + name;
+  document.getElementById("text").innerHTML = "Hello " + name;
   console.log(result);
 }
+
+fun();
