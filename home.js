@@ -1,8 +1,20 @@
 // function in javascript
-function fun() {
-  var name = prompt("What is your name?");
-  document.getElementById("text").innerHTML = "Hello " + name;
-  console.log(result);
-}
+// function fun() {
+//   var name = prompt("What is your name?");
+//   document.getElementById("text").innerHTML = "Hello " + name;
+// }
 
-fun();
+// fun();
+
+// Function with multiple arguments
+// function greeting(yourName) {
+//   if (yourName !== null && yourName !== "") {
+//     var result = "Hello " + yourName;
+//     console.log(result);
+//   } else {
+//     console.log("Hello, anonymous user!"); // Handle the case when no name is provided
+//   }
+// }
+
+// var name = prompt("What is your name?");
+// greeting(name);
