@@ -18,3 +18,12 @@
 
 // var name = prompt("What is your name?");
 // greeting(name);
+
+// For loop and While loop
+
+// While loop
+var num = 0;
+while (num < 100) {
+  num++;
+  console.log(num);
+}
