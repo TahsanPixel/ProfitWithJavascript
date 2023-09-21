@@ -1,5 +1,6 @@
-// Function in javascript
+// function in javascript
 function fun() {
-  console.log("Hello World"); // prints Hello world to console window
+  var name = prompt("What is your name?");
+  var result = "Hello " + name;
+  console.log(result);
 }
-fun();
