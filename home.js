@@ -22,8 +22,15 @@
 // For loop and While loop
 
 // While loop
-var num = 0;
-while (num < 100) {
-  num++;
-  console.log(num);
-}
+// var num = 0;
+// while (num < 100) {
+//   num++;
+//   console.log(num);
+// }
+
+// For loop
+// for (let num = 0; num <= 100; num++) {
+//   console.log(num);
+// }
+
+// Datatypes
