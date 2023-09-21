@@ -34,3 +34,18 @@
 // }
 
 // Datatypes
+// var yourAge = 28; // integer
+// var yourName = "Khalid Farhan"; // string
+// var name = { firs: "Khalid", last: "Farhan" }; // Object
+// var array = ["mango", "banana", "milk"]; // array
+// var random; // undefined
+
+// String in javascript (Common method):
+
+var fruit = "Banana";
+console.log(fruit.replace("Ban", "123"));
+console.log(fruit.charAt(2));
+console.log(fruit.split(""));
+console.log(fruit.toLowerCase());
+console.log(fruit.length);
+console.log(fruit.indexOf("Ban"));
